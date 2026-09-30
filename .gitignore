@@ -1,1 +1,4 @@
 programa
+*.o 
+main.o 
+util.o
